@@ -11,7 +11,8 @@ https://nodejs.org/en/
   ``npm install typescript``
   
 3. Install Playwright: https://playwright.dev/docs/intro
-  ```npm i -D @playwright/test
+  ```
+  npm i -D @playwright/test
   npx playwright install
   ```
   
