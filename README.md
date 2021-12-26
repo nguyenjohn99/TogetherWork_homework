@@ -7,6 +7,7 @@ Steps to run program:
 https://nodejs.org/en/
 
 2. Install Typescript
+
   ```npm install typescript
   ```
   
@@ -19,6 +20,7 @@ https://nodejs.org/en/
 
 # Running the test
 From the repository directory, run:
+
   ```npx playwright test
   ```
 
