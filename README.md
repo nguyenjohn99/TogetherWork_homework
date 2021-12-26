@@ -26,4 +26,4 @@ From the repository directory, run:
   ```
   npx playwright test
   ```
-
+By default configuration, this will run the test in headed mode and output video and screenshots on each test run. You can change these configurations as desired by making edits to ``playwright.config.ts`` or by including settings in your CL command. For more details, see https://playwright.dev/docs/test-configuration.
