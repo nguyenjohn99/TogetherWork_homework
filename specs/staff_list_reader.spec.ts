@@ -11,5 +11,4 @@ test('Prints board member list', async ({page}) => {
 
     const leadershipPage = new LeadershipPage(page)
     await leadershipPage.printLeaders()
-
 })
