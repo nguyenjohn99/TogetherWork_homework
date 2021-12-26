@@ -7,7 +7,8 @@ Steps to run program:
 https://nodejs.org/en/
 
 2. Install Typescript
-  ``npm install typescript``
+  ```npm install typescript
+  ```
   
 3. Install Playwright: https://playwright.dev/docs/intro
   ```npm i -D @playwright/test
@@ -18,5 +19,6 @@ https://nodejs.org/en/
 
 # Running the test
 From the repository directory, run:
-  ``npx playwright test``
+  ```npx playwright test
+  ```
 
