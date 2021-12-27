@@ -1,5 +1,5 @@
 # TogetherWork_homework
-I chose Playwright for my automation solution in the interest of quick turnaround, since it's what I'm presently what I'm working in most often. I trust the syntax should be easy to read for those who are familiar with other E2E testing tools.
+I chose Playwright for my automation solution in the interest of quick turnaround, since it's what I'm presently what I'm working in most often. I trust the syntax should be easy to read for those who are familiar with other E2E testing tools. (I should note that a user who is most familiar with Webdriver may be concerned at the lack of explicit waits in the code; playwright builds intelligent waiting into its locator handling methods, making them less necessary outside of transition states.)
 
 
 
